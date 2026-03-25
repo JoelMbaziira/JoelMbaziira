@@ -78,7 +78,7 @@ If you're also starting out in security, these might save you the hours I spent 
 
 📧 mbaziirajoel9@gmail.com  
 📍 Kampala, Uganda  
-🎓 ISBA University — Computer Engineering
+🎓 ISBAT University — Computer Engineering
 
 <br/>
 
