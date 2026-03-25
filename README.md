@@ -9,7 +9,7 @@
 
 ## Who I am
 
-I'm a Computer Engineering student at ISBA University building toward a career in cybersecurity — specifically on the blue team, with a red team mindset.
+I'm a Computer Engineering student at ISBAT University building toward a career in cybersecurity — specifically on the blue team, with a red team mindset.
 
 I believe the best defenders understand offensive techniques deeply. So I'm learning both sides: how enterprise infrastructure is built, how it fails, and how to detect and respond when it does.
 
